@@ -1,0 +1,128 @@
+{
+    "first_card":
+    [
+        {
+            "border_color": "0.188rem solid #178FF5",
+            "sec_id": "facebook",
+            "sec_logo": "./asserts/facebook.png",
+            "sec_name": "@nathanf",
+            "sec_num": 1987,
+            "sec_text": "FOLLOWERS",
+            "arrow_id": "arrow-up",
+            "sec_count": "12 Today",
+            "sec_count_color": "#1EB589"
+        },
+
+        {
+            "border_color": "0.188rem solid #1DA1F2",
+            "sec_id": "twitter",
+            "sec_logo": "./asserts/twitter.png",
+            "sec_name": "@nathanf",
+            "sec_num": 1044,
+            "sec_text": "FOLLOWERS",
+            "arrow_id": "arrow-up",
+            "sec_count": "99 Today",
+            "sec_count_color": "#1EB589"
+        },
+
+        {
+            "border_color": "0.188rem solid #DF4896",
+            "sec_id": "instagram",
+            "sec_logo": "./asserts/inta.png",
+            "sec_name": "@realnathanf",
+            "sec_num": "11k",
+            "sec_text": "FOLLOWERS",
+            "arrow_id": "arrow-up",
+            "sec_count": "1099 Today",
+            "sec_count_color": "#1EB589"
+        },
+
+        {
+            "border_color": "0.188rem solid #C4032B",
+            "sec_id": "youtube",
+            "sec_logo": "./asserts/youtube.png",
+            "sec_name": "Nathan F.",
+            "sec_num": 8239,
+            "sec_text": "FOLLOWERS",
+            "arrow_id": "arrow-down",
+            "sec_count": "1099 Today",
+            "sec_count_color": "#DC414C"
+        }
+
+    ],
+    
+    "second_card":
+    [
+      {
+        "up_text": "page view",
+        "sec_logo": "./asserts/facebook.png",
+        "down_num": 1987,
+        "down_add": "12%",
+        "arrow_id": "arrow-up",
+        "count_color": "#1EB589"
+      },
+
+      {
+        "up_text": "Likes",
+        "sec_logo": "./asserts/facebook.png",
+        "down_num": 52,
+        "down_add": "3%",
+        "arrow_id": "arrow-down",
+        "count_color": "#DC414C"
+      },
+      
+      {
+        "up_text": "Likes",
+        "sec_logo": "./asserts/inta.png",
+        "down_num": 5462,
+        "down_add": "2257%",
+        "arrow_id": "arrow-up",
+        "count_color": "#1EB589"
+      },
+
+      {
+        "up_text": "Profile Views",
+        "sec_logo": "./asserts/inta.png",
+        "down_num": "52k",
+        "down_add": "1375%",
+        "arrow_id": "arrow-up",
+        "count_color": "#1EB589"
+      },
+
+      {
+        "up_text": "Retweets",
+        "sec_logo": "./asserts/twitter.png",
+        "down_num": 117,
+        "down_add": "303%",
+        "arrow_id": "arrow-up",
+        "count_color": "#1EB589"
+      },
+
+      {
+        "up_text": "Likes",
+        "sec_logo": "./asserts/twitter.png",
+        "down_num": 507,
+        "down_add": "553%",
+        "arrow_id": "arrow-up",
+        "count_color": "#1EB589"
+      },
+
+      {
+        "up_text": "Likes",
+        "sec_logo": "./asserts/youtube.png",
+        "down_num": 107,
+        "down_add": "19%",
+        "arrow_id": "arrow-down",
+        "count_color": "#DC414C"
+      },
+
+      {
+        "up_text": "Likes",
+        "sec_logo": "./asserts/youtube.png",
+        "down_num": 1047,
+        "down_add": "12%",
+        "arrow_id": "arrow-down",
+        "count_color": "#DC414C"
+      }
+    ]
+}
